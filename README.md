@@ -1,6 +1,8 @@
 [<img align="left" alt="zhandos256 | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/BotMasterKZ)
 [<img align="left" alt="zhandos256 | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" />](https://instagram.com/zhandos256)
 [<img align="left" alt="zhandos256 | TikTok" width="22px" src="https://cdn.simpleicons.org/tiktok/black/white" />](https://tiktok.com/@zhandos256)
+[<img align="left" alt="zhandos256 | TikTok" width="22px" src="https://cdn.simpleicons.org/threads/black/white" />](https://tiktok.com/@zhandos256)
+[<img align="left" alt="zhandos256 | TikTok" width="22px" src="https://cdn.simpleicons.org/youtube/black/white" />](https://tiktok.com/@zhandos256)
 <br/>
 
 You may want to:
@@ -14,4 +16,4 @@ At the moment, your contribution is most welcome here:
 [Ideas-Diary](https://github.com/zhandos256/ideas-diary) (Markdown),
 [TemplateAiogram](https://github.com/zhandos256/templateaiogram) (Python),
 [BotMaster](https://github.com/zhandos256/botmaster) (Python+Telegram),
-[ASMR-Coding](https://github.com/zhand
+[ASMR-Coding](https://github.com/zhandos256
