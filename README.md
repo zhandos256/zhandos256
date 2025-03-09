@@ -1,16 +1,17 @@
-## Hi there 👋
+[<img align="left" alt="zhandos256 | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/BotMasterKZ)
+[<img align="left" alt="zhandos256 | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" />](https://instagram.com/zhandos256)
+[<img align="left" alt="zhandos256 | TikTok" width="22px" src="https://cdn.simpleicons.org/tiktok/black/white" />](https://tiktok.com/@zhandos256)
+<br/>
 
-<!--
-**zhandos256/zhandos256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You may want to:
+1. Buy [my bot templates](https://t.me/BotMasterKZShop) for 500 KZT
+2. Check my [ideas diary](https://github.com/zhandos256/ideas-diary)
+3. Subscribe to [my channel](https://t.me/BotMasterKZ) in Telegram
+4. [Follow me](https://x.com/intent/follow?screen_name=zhandos256) on X
+5. [Subscribe](https://youtube.com/@zhandos256?sub_confirmation=1) to my YouTube channel
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the moment, your contribution is most welcome here: 
+[Ideas-Diary](https://github.com/zhandos256/ideas-diary) (Markdown),
+[TemplateAiogram](https://github.com/zhandos256/templateaiogram) (Python),
+[BotMaster](https://github.com/zhandos256/botmaster) (Python+Telegram),
+[ASMR-Coding](https://github.com/zhand
