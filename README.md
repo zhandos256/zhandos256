@@ -5,17 +5,18 @@
 [<img align="left" alt="zhandos256 | TikTok" width="22px" src="https://cdn.simpleicons.org/youtube/black/white" />](https://tiktok.com/@zhandos256)
 <br/>
 
-Вы можете:
+## Присоединяйтесь ко мне на:
 
-- Присоединиться к моему каналу в Telegram
-- Подписаться на мой канал на YouTube
-- Следить за мной в Instagram
-- Подписаться на мой профиль в Threads
-- Ознакомиться с моими проектами на GitHub
+- Telegram — Подпишитесь на мой канал для обновлений и новостей.
+- YouTube — Не забудьте подписаться на мой канал для видеоконтента.
+- Instagram:TikTok — Следите за мной в Instagram и TikTok для фото и коротких видео.
+- Threads — Присоединяйтесь ко мне на Threads для общения и новых идей.
 
-На данный момент, мой вклад важен здесь:
+## Мои проекты
 
-- Ideas-Diary (Markdown)
-- TemplateAiogram (Python)
-- BotMaster (Python + Telegram)
-- ASMR-Coding (Python)
+Вы можете ознакомиться с моими проектами на GitHub, среди которых:
+
+- Ideas-Diary — Мой дневник идей в формате Markdown.
+- TemplateAiogram — Шаблон для ботов на Python с использованием библиотеки Aiogram.
+- BotMaster — Библиотека для создания ботов на Python + Telegram API.
+- ASMR-Coding — Программирование с элементами ASMR для расслабления.
