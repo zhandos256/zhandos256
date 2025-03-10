@@ -5,15 +5,17 @@
 [<img align="left" alt="zhandos256 | TikTok" width="22px" src="https://cdn.simpleicons.org/youtube/black/white" />](https://tiktok.com/@zhandos256)
 <br/>
 
-You may want to:
-1. Buy [my bot templates](https://t.me/BotMasterKZShop) for 500 KZT
-2. Check my [ideas diary](https://github.com/zhandos256/ideas-diary)
-3. Subscribe to [my channel](https://t.me/BotMasterKZ) in Telegram
-4. [Follow me](https://x.com/intent/follow?screen_name=zhandos256) on X
-5. [Subscribe](https://youtube.com/@zhandos256?sub_confirmation=1) to my YouTube channel
+Вы можете:
 
-At the moment, your contribution is most welcome here: 
-[Ideas-Diary](https://github.com/zhandos256/ideas-diary) (Markdown),
-[TemplateAiogram](https://github.com/zhandos256/templateaiogram) (Python),
-[BotMaster](https://github.com/zhandos256/botmaster) (Python+Telegram),
-[ASMR-Coding](https://github.com/zhandos256
+- Присоединиться к моему каналу в Telegram
+- Подписаться на мой канал на YouTube
+- Следить за мной в Instagram
+- Подписаться на мой профиль в Threads
+- Ознакомиться с моими проектами на GitHub
+
+На данный момент, мой вклад важен здесь:
+
+- Ideas-Diary (Markdown)
+- TemplateAiogram (Python)
+- BotMaster (Python + Telegram)
+- ASMR-Coding (Python)
