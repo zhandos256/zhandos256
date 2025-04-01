@@ -5,6 +5,6 @@
 [<img align="left" alt="yegor256 | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/yegor256news)
 <br/>
 
-IT-blogs | SaaS-startups | Python, AI, TG Bots expert
-Free courses and open-source projects for kazakh auditory
-My goal - development of information technologies in Kazakhstan and ensuring access to quality education
+IT-blogs | SaaS-startups | Python, AI, Telegra bots expert <br>
+Free courses and open-source projects for kazakh auditory <br>
+My goal - development of information technologies in Kazakhstan and ensuring access to quality education <br>
