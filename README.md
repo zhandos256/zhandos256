@@ -5,14 +5,6 @@
 [<img align="left" alt="yegor256 | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/yegor256news)
 <br/>
 
-⚡ IT-блогер | SaaS-жобалар әзірлеуші | Python, AI және Telegram Bot маманы  
-🎓 Тегін курстар мен пайдалы open-source жобалар — барлығы қазақ тілінде  
-🧠 Мақсатым — Қазақстанда IT-ны дамыту және сапалы білімге қолжетімділік беру  
-
-📍 Негізгі бағыттарым:
-- Python & FastAPI негізінде микро-сервистер жасау
-- Telegram Bot, AI құралдары және автоматтандыру
-- 3D-принтинг, генерация, сертификат жүйелері және GitHub Pages
-- Қазақша IT контент және тегін оқыту
-
-📬 Жобаларымды қарап, пікір қалдыруға шақырамын!
+IT-blogs | SaaS-startups | Python, AI, TG Bots expert
+Free courses and open-source projects for kazakh auditory
+My goal - development of information technologies in Kazakhstan and ensuring access to quality education
