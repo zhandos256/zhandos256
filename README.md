@@ -6,11 +6,7 @@
 [<img align="left" alt="zhandos256 | GitHub" width="22px" src="https://cdn.simpleicons.org/github/black/white" />](https://github.com/zhandos256)
 <br/>
 
-🇰🇿 IT-блогер | Эксперт по Python, AI и Telegram ботам  
-🚀 Создаю SaaS-стартапы и open-source проекты  
-🎓 Бесплатные курсы для казахстанцев  
-🎯 Цель: развитие IT в Казахстане через образование  
-
-📌 **My projects**:  
-[Курс "Python для начинающих"](ссылка)<br>
-[Telegram-бот для IT-обучения](ссылка)
+IT-blog | Python, AI и Telegram bots developer <br>
+SaaS-startups и open-source projects <br>
+Free courses for Kazakhstan people <br>
+Goal: development of the IT sector in Kazakhstan
