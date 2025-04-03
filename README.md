@@ -1,8 +1,16 @@
-[<img align="left" alt="zhandos256 | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:zhandos256@gmail.com)
-[<img align="left" alt="zhandos256 | Instagram" width="22px" src="https://cdn.simpleicons.org/Instagram/black/white" />](https://instagram.com/zhandos256)
-<br/>
+## Zhandos Rakhymberlin
 
-IT-blog | Python, AI и Telegram bots developer<br>
-SaaS-startups и open-source projects<br>
-Free courses for Kazakhstan people<br>
-Goal: development of the IT sector in Kazakhstan
+IT blogger and developer from Kazakhstan. I build projects in Python, AI, Telegram bots, and SaaS. Sharing knowledge through free courses and open-source initiatives.
+
+### About Me
+- **Focus**: Python, artificial intelligence, Telegram bots, SaaS startups, and open-source development.  
+- **Mission**: Advancing Kazakhstan's IT sector with accessible education and content in Kazakh.
+
+### Connect
+- 📧 [Email](mailto:r.zhandos256@gmail.com)  
+- 📸 [Instagram](https://instagram.com/zhandos256)  
+- 💻 [GitHub](https://github.com/zhandos256)
+
+---
+
+*Working to bring technology closer to everyone in Kazakhstan.*
