@@ -1,5 +1,6 @@
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.simpleicons.org/gmail" />](mailto:zhandos256@gmail.com)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />](https://instagram.com/zhandos256.dev)
+[<img align="left" alt="Tiktok" width="22px" src="https://cdn.simpleicons.org/tiktok" />](https://tiktok.com/@zhandos256.dev)
 
 <br>
 
