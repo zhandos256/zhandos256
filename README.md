@@ -5,8 +5,6 @@
 [<img align="left" alt="zhandos256 | Youtube" width="22px" src="https://cdn.simpleicons.org/youtube/black/white" />](https://youtube.com/@zhandos256)
 <br>
 
-About Me
-
 I'm Zhandos, an IT blogger and indie developer from Kazakhstan, building tools, bots, and platforms that solve real problems.
 
 🚀 Passionate about Python, AI, Telegram bots, and micro SaaS projects.<br>
