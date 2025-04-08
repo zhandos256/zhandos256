@@ -7,6 +7,6 @@
 
 I'm Zhandos, an IT blogger and indie developer from Kazakhstan, building tools, bots, and platforms that solve real problems.
 
-🚀 Passionate about Python, AI, Telegram bots, and micro SaaS projects.<br>
-📢 Sharing knowledge through free tutorials, open-source projects, and tech content in Kazakh.<br>
-🌍 My goal: Make technology accessible, practical, and local — especially for the Kazakh-speaking community.
+Passionate about Python, AI, Telegram bots, and micro SaaS projects.<br>
+Sharing knowledge through free tutorials, open-source projects, and tech content in Kazakh.<br>
+My goal: Make technology accessible, practical, and local — especially for the Kazakh-speaking community.
