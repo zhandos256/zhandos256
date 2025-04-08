@@ -5,4 +5,4 @@
 [<img align="left" alt="zhandos256 | Youtube" width="22px" src="https://cdn.simpleicons.org/youtube/black/white" />](https://youtube.com/@zhandos256)
 <br>
 
-I'm Zhandos, an IT businessman and indie hacker from Kazakhstan, building tools, bots, and platforms that solve real problems people.
+Hello, I'm Zhandos, an IT businessman and Indie Hacker from Kazakhstan, building tools, bots, and platforms that solve real problems people.
