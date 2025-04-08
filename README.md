@@ -5,8 +5,4 @@
 [<img align="left" alt="zhandos256 | Youtube" width="22px" src="https://cdn.simpleicons.org/youtube/black/white" />](https://youtube.com/@zhandos256)
 <br>
 
-I'm Zhandos, an IT blogger and indie developer from Kazakhstan, building tools, bots, and platforms that solve real problems.
-
-Passionate about Python, AI, Telegram bots, and micro SaaS projects.<br>
-Sharing knowledge through free tutorials, open-source projects, and tech content in Kazakh.<br>
-My goal: Make technology accessible, practical, and local — especially for the Kazakh-speaking community.
+I'm Zhandos, an IT buisnessman and indie hacker from Kazakhstan, building tools, bots, and platforms that solve real problems.
