@@ -6,3 +6,4 @@
 <br>
 
 Hello, I'm Zhandos, an IT businessman and Indie Hacker from Kazakhstan, building tools, bots, and platforms that solve real problems people.
+Happy developer from Kazakhstan
